@@ -1,5 +1,5 @@
 # Sending data C# and Python
-These are my notes where I try to explain the connection between Python and C# (the code can be found in the respective folders). This connection between programming languages is really useful for me because I can connect Python (my backend) with Unity (my frontend). Soon I will upload specifically how to connect Python and Unity where I will also try to explain the procedure with my notes.
+These are my notes where I try to explain the connection between Python and C# (the code can be found in the respective folders). This connection between programming languages is really useful for me because I can connect Python (my backend) with Unity (my frontend). Soon I will upload how to connect Python and Unity specifically. I will also try to explain the procedure with my notes.
 
 # Explanation
 ![image](https://user-images.githubusercontent.com/17753976/126081297-e530026f-5238-4115-96ed-3ee83e3c4a49.png)
